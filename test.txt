@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 
 =======
-new changes ...................
+new changes ...................++++
 >>>>>>> refs/remotes/origin/master
